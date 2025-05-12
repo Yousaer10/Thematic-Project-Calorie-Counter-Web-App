@@ -56,7 +56,7 @@ project/
 
 ---
 
-## 📦 Setup Instructions
+## Setup Instructions
 
 ### Clone the Repository
 
