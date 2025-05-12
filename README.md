@@ -40,6 +40,7 @@ A full-stack web application that allows users to log meals and workouts, track 
 ---
 
 ## Folder Structure
+```bash
 project/
 ├── backend/
 │ ├── controllers/
@@ -53,6 +54,7 @@ project/
 ├── database/
 ├── public/
 └── README.md
+```
 
 ---
 
